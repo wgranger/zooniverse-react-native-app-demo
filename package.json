@@ -9,6 +9,8 @@
     "gulp": "^3.9.0",
     "gulp-cjsx": "^3.0.0",
     "gulp-watch": "^4.3.5",
-    "react-native": "^0.18.1"
+    "react-native": "^0.18.1",
+    "react-native-swipe-cards": "0.0.7",
+    "panoptes-client": "~2.0.0"
   }
 }
